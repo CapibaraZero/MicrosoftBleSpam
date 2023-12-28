@@ -1,0 +1,24 @@
+{
+    "name": "DHCPGlutton",
+    "keywords": "esp32",
+    "description": "Library to make DHCP starvation attack",
+    "authors": [
+        {
+            "name": "Andreock",
+            "maintainer": true
+        },
+        {
+            "name": "Spooks4576",
+            "maintainer": false
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andreock/MicrosoftBleSpam.git"
+    },
+    "version": "1.1",
+    "frameworks": "arduino",
+    "dependencies": {
+        "h2zero/NimBLE-Arduino": "^1.4.1"
+    }
+}
